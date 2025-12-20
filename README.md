@@ -9,8 +9,6 @@ Cybersecurity On The Edge
 A tool to learn and have a nice day with Ports/OSI/Tools 
 
 ---
-Try it here, you can swithch to EN/ES langs
-
 > **"A Single-File Cyber Intelligence Dashboard for the Modern Operator."**
 CYBote is an ultra-lightweight, offline-first dashboard designed to bridge the gap between **OSI Theory**, **Kali Linux Tools**, and **Port/Service knowledge**. It serves as an interactive HUD (Heads-Up Display) for students, CTF players, and cybersecurity professionals.
 
@@ -38,6 +36,7 @@ Full support for **English** and **Spanish**, switchable instantly.
 *   Runs in **any browser**
 ---
 ## 📥 Installation
+Try it here, you can swithch to EN/ES langs
 Since CYBote is a **Single-File Application (SFA)**, installation is not needed
 1. just go to https://cybote-alpha.gercompanyman.workers.dev/
 2.  Open it in your browser (Chrome, Brave, Edge).

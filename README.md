@@ -13,7 +13,7 @@ Try it here, you can swithch to EN/ES langs
 
 > **"A Single-File Cyber Intelligence Dashboard for the Modern Operator."**
 CYBote is an ultra-lightweight, offline-first dashboard designed to bridge the gap between **OSI Theory**, **Kali Linux Tools**, and **Port/Service knowledge**. It serves as an interactive HUD (Heads-Up Display) for students, CTF players, and cybersecurity professionals.
-![CYBote Interface](https://via.placeholder.com/800x450?text=CYBote+Dashboard+Preview)
+
 ---
 ## 🚀 Key Features
 ### 1. 🌐 Semantic OSI Analyzer (Layer 1-7)

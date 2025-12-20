@@ -1,14 +1,13 @@
 # CYBote
-```
-+--------------------------------------------------------+      
-            ▄▀ ▀▄░▄▀ █▀▄ ▄▀▄ ▀█▀ █▀▀                     |     
-            █░ ░░█░░ █▀█ █░█ ░█░ █▀▀                     |
-            ░▀ ░░▀░░ ▀▀░ ░▀░ ░▀░ ▀▀▀                     |
-                                                         |
-CYBote is the                                            |
-Cybersecurity On The Edge                                |                               
-A tool to learn and have a nice day with Ports/OSI/Tools |
----------------------------------------------------------+```
+
+            ▄▀ ▀▄░▄▀ █▀▄ ▄▀▄ ▀█▀ █▀▀                     
+            █░ ░░█░░ █▀█ █░█ ░█░ █▀▀                     
+            ░▀ ░░▀░░ ▀▀░ ░▀░ ░▀░ ▀▀▀                     
+                                                         
+CYBote is the                                            
+Cybersecurity On The Edge                                
+A tool to learn and have a nice day with Ports/OSI/Tools 
+
 ---
 Try it here, you can swithch to EN/ES langs
 
@@ -36,12 +35,12 @@ Full support for **English** and **Spanish**, switchable instantly.
 ### 5. 📦 Zero Dependencies (Single-File)
 *   **No React, No Angular, No Node_modules.**
 *   Just **Standard Web Technologies** (ES6+, CSS3 Variables).
-*   Runs in **any browser**, from a local `file://` URL. Perfect for air-gapped systems or USB usage.
+*   Runs in **any browser**
 ---
 ## 📥 Installation
-Since CYBote is a **Single-File Application (SFA)**, installation is trivial:
-1.  Download `Cybersecurity_On_The_Edge.html`.
-2.  Open it in your browser (Chrome, Firefox, Edge).
+Since CYBote is a **Single-File Application (SFA)**, installation is not needed
+1. just go to https://cybote-alpha.gercompanyman.workers.dev/
+2.  Open it in your browser (Chrome, Brave, Edge).
 3.  **Done.**
 ---
 ## 🎮 How To Use
@@ -53,11 +52,6 @@ The interface is designed around the concept of **Cross-Grid Filtering**:
     *   **⚡ Ports Panel:** Filters to show Port 445, 139.
     *   **🛠️ Tools Panel:** Filters to show `Enum4linux`, `Impacket`, `Responder`.
 4.  **Define:** Click the **`?`** button on any card to look up a precise definition.
----
-## 🔧 Technical Details
-*   **Core:** Vanilla JavaScript (ES6 Modules pattern).
-*   **Style:** Custom "Glassmorphism" CSS with Neon aesthetics (`--neon-cyan`, `--neon-pink`).
-*   **Data Structure:** JSON-based constant databases (`DB_PORTS`, `DB_TOOLS`, `DB_OSI`, `TAG_RELATIONS`) embedded directly for speed.
 ---
 ## 📜 License
 *   **Author:** Germán Company Mangano

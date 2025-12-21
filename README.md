@@ -38,7 +38,7 @@ Full support for **English** and **Spanish**, switchable instantly.
 ## 📥 Installation
 Try it here, you can swithch to EN/ES langs
 Since CYBote is a **Single-File Application (SFA)**, installation is not needed
-1. just go to https://cybote-alpha.gercompanyman.workers.dev/
+1. just go to https://cybote.gercompanyman.workers.dev/
 2.  Open it in your browser (Chrome, Brave, Edge).
 3.  **Done.**
 ---
